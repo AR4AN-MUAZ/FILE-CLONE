@@ -43,7 +43,7 @@ git clone https://github.com/AR4AN-MUAZ/FILE-CLONE.git
 
 cd FILE-CLONE
 
-chmod x+ *
+chmod +x *
 
 python FILEX.py
 
