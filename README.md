@@ -37,12 +37,14 @@ pip install mechanize
 
 cd $HOME
 
-___≮𝐑𝐔𝐍 𝐓𝐎𝐎𝐋≯___
+    ___≮𝐑𝐔𝐍 𝐓𝐎𝐎𝐋≯___
 
 git clone https://github.com/AR4AN-MUAZ/FILE-CLONE.git
 
-cd CAT-CLONE
+cd FILE-CLONE
 
-python3 FILE-X.py
+chmod x+ *
+
+python FILEX.py
 
     __𝚃𝙷𝙰𝙽𝙺𝚂 𝙰𝙻𝙻__🪽
